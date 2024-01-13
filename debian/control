@@ -13,7 +13,6 @@ Depends: ${misc:Depends},
          adaptation-hybris-api28-phone,
          adaptation-lavender-configs,
          linux-bootimage-xiaomi-lavender,
-         adaptation-hybris-api28-phone-dual-sim,
          droidian-camera,
 Description: adapatation-lavender-meta
  lavender api28 adaptation metapackage
